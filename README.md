@@ -35,3 +35,13 @@ public class SimpleNumberGame {
         input.close();
     }
 }
+output:- Enter the number of subjects: 3
+Enter marks obtained in subject 1 (out of 100): 85
+Enter marks obtained in subject 2 (out of 100): 78
+Enter marks obtained in subject 3 (out of 100): 92
+
+--- Result ---
+Total Marks: 255 out of 300
+Average Percentage: 85.00%
+Grade: A
+
